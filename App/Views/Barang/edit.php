@@ -8,9 +8,9 @@
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="public/AdminLTE/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="public/plugins/fontawesome-free/css/all.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="public/AdminLTE/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="public/css/adminlte.min.css">
     <style>
         .form-container {
             max-width: 600px;
@@ -56,12 +56,12 @@
     </form>
 </div>
 <!-- jQuery -->
-<script src="public/AdminLTE/plugins/jquery/jquery.min.js"></script>
+<script src="public/plugins/jquery/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
-<script src="public/AdminLTE/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
-<script src="public/AdminLTE/dist/js/adminlte.min.js"></script>
+<script src="public/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="public/AdminLTE/dist/js/demo.js"></script>
+<script src="public/js/demo.js"></script>
 </body>
 </html>

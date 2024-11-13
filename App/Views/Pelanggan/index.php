@@ -9,9 +9,9 @@
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="public/AdminLTE/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="public/plugins/fontawesome-free/css/all.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="public/AdminLTE/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="public/css/adminlte.min.css">
 </head>
 <body class="hold-transition sidebar-mini">
 <!-- Site wrapper -->
@@ -23,7 +23,7 @@
       <!-- Sidebar user (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="public/AdminLTE/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+          <img src="public/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
           <a href="#" class="d-block">Penjualan-0061</a>
@@ -141,13 +141,13 @@
 <!-- ./wrapper -->
 
 <!-- jQuery -->
-<script src="public/AdminLTE/plugins/jquery/jquery.min.js"></script>
+<script src="public/plugins/jquery/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
-<script src="public/AdminLTE/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
-<script src="public/AdminLTE/dist/js/adminlte.min.js"></script>
+<script src="public/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="public/AdminLTE/dist/js/demo.js"></script>
+<script src="public/js/demo.js"></script>
 </body>
 </html>
 
